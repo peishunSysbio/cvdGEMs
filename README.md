@@ -5,3 +5,6 @@ git clone git@github.com:peishunSysbio/cvdGEMs.git
 git add .    
 git commit -m "first commit"   
 git push origin master    
+git checkout -b peishun_branch     
+git push origin peishun_branch 
+git status    
