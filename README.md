@@ -4,7 +4,7 @@ Genome-scale metabolic modeling of gut microbiota associated with CVD
 Build the repository including models and codes  
 git clone git@github.com:peishunSysbio/cvdGEMs.git    
 git add .    
-git commit -m "first commit"   
+git commit -m "test"   
 git checkout -b peishun_branch     
 git push origin peishun_branch     
 git push origin master   
